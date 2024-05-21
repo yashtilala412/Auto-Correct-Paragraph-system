@@ -1,6 +1,6 @@
 # Sentence Correction Flask App
 
-This Flask application corrects sentences by suggesting the most similar words from the English vocabulary based on Levenshtein distance. It uses NLP techniques to tokenize and tag parts of speech in sentences and suggests corrections for misspelled words.
+This Flask application corrects sentences by suggesting the most similar words from the English vocabulary based on jakkard distance. It uses NLP techniques to tokenize and tag parts of speech in sentences and suggests corrections for misspelled words.
 
 ## Features
 
