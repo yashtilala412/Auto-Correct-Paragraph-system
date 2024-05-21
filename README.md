@@ -17,10 +17,11 @@ This Flask application corrects sentences by suggesting the most similar words f
 - textdistance
 
 ## Installation
-#import nltk
-#nltk.download('words')
-#nltk.download('punkt')
-#nltk.download('averaged_perceptron_tagger')
+
+-import nltk
+-nltk.download('words')
+-nltk.download('punkt')
+-nltk.download('averaged_perceptron_tagger')
 
 ### Prerequisites
 
